@@ -19,9 +19,8 @@ Faiz Ul Muram
 
 Spring 2023
 
-# Link to Diva:
-
-urn:nbn:se:lnu:diva-121741
+# Diva:
+<a href="https://lnu.diva-portal.org/smash/record.jsf?pid=diva2%3A1766552&dswid=8005">
 
 # Publish on Diva on:
 
